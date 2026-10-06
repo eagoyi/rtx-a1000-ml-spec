@@ -1,0 +1,272 @@
+[
+    {
+        "framework": "TensorFlow",
+        "episode": 1,
+        "loss": 0.8093,
+        "step_time_ms": 109.4,
+        "allocated_vram_mb": 450.0,
+        "reserved_vram_mb": 570.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "TensorFlow",
+        "episode": 2,
+        "loss": 0.6878,
+        "step_time_ms": 24.67,
+        "allocated_vram_mb": 450.0,
+        "reserved_vram_mb": 570.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "TensorFlow",
+        "episode": 3,
+        "loss": 0.7447,
+        "step_time_ms": 11.05,
+        "allocated_vram_mb": 450.0,
+        "reserved_vram_mb": 570.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "TensorFlow",
+        "episode": 4,
+        "loss": 0.6981,
+        "step_time_ms": 10.78,
+        "allocated_vram_mb": 450.0,
+        "reserved_vram_mb": 570.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "TensorFlow",
+        "episode": 5,
+        "loss": 0.6481,
+        "step_time_ms": 10.42,
+        "allocated_vram_mb": 450.0,
+        "reserved_vram_mb": 570.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "TensorFlow",
+        "episode": 6,
+        "loss": 0.6454,
+        "step_time_ms": 10.95,
+        "allocated_vram_mb": 450.0,
+        "reserved_vram_mb": 570.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "TensorFlow",
+        "episode": 7,
+        "loss": 0.7802,
+        "step_time_ms": 13.07,
+        "allocated_vram_mb": 450.0,
+        "reserved_vram_mb": 570.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "TensorFlow",
+        "episode": 8,
+        "loss": 0.6949,
+        "step_time_ms": 11.32,
+        "allocated_vram_mb": 450.0,
+        "reserved_vram_mb": 570.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "TensorFlow",
+        "episode": 9,
+        "loss": 0.7038,
+        "step_time_ms": 10.62,
+        "allocated_vram_mb": 450.0,
+        "reserved_vram_mb": 570.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "TensorFlow",
+        "episode": 10,
+        "loss": 0.6731,
+        "step_time_ms": 10.53,
+        "allocated_vram_mb": 450.0,
+        "reserved_vram_mb": 570.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "TensorFlow",
+        "episode": 11,
+        "loss": 0.7015,
+        "step_time_ms": 10.86,
+        "allocated_vram_mb": 450.0,
+        "reserved_vram_mb": 570.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "TensorFlow",
+        "episode": 12,
+        "loss": 0.7183,
+        "step_time_ms": 12.18,
+        "allocated_vram_mb": 450.0,
+        "reserved_vram_mb": 570.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "TensorFlow",
+        "episode": 13,
+        "loss": 0.6873,
+        "step_time_ms": 10.78,
+        "allocated_vram_mb": 450.0,
+        "reserved_vram_mb": 570.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "TensorFlow",
+        "episode": 14,
+        "loss": 0.6636,
+        "step_time_ms": 10.33,
+        "allocated_vram_mb": 450.0,
+        "reserved_vram_mb": 570.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "TensorFlow",
+        "episode": 15,
+        "loss": 0.7156,
+        "step_time_ms": 10.29,
+        "allocated_vram_mb": 450.0,
+        "reserved_vram_mb": 570.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "TensorFlow",
+        "episode": 16,
+        "loss": 0.7308,
+        "step_time_ms": 35.22,
+        "allocated_vram_mb": 450.0,
+        "reserved_vram_mb": 570.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "TensorFlow",
+        "episode": 17,
+        "loss": 0.7374,
+        "step_time_ms": 11.34,
+        "allocated_vram_mb": 450.0,
+        "reserved_vram_mb": 570.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "TensorFlow",
+        "episode": 18,
+        "loss": 0.6693,
+        "step_time_ms": 12.51,
+        "allocated_vram_mb": 450.0,
+        "reserved_vram_mb": 570.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "TensorFlow",
+        "episode": 19,
+        "loss": 0.6689,
+        "step_time_ms": 11.05,
+        "allocated_vram_mb": 450.0,
+        "reserved_vram_mb": 570.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "TensorFlow",
+        "episode": 20,
+        "loss": 0.6965,
+        "step_time_ms": 11.06,
+        "allocated_vram_mb": 450.0,
+        "reserved_vram_mb": 570.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "TensorFlow",
+        "episode": 21,
+        "loss": 0.7225,
+        "step_time_ms": 10.85,
+        "allocated_vram_mb": 450.0,
+        "reserved_vram_mb": 570.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "TensorFlow",
+        "episode": 22,
+        "loss": 0.6813,
+        "step_time_ms": 10.53,
+        "allocated_vram_mb": 450.0,
+        "reserved_vram_mb": 570.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "TensorFlow",
+        "episode": 23,
+        "loss": 0.704,
+        "step_time_ms": 11.07,
+        "allocated_vram_mb": 450.0,
+        "reserved_vram_mb": 570.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "TensorFlow",
+        "episode": 24,
+        "loss": 0.7043,
+        "step_time_ms": 11.03,
+        "allocated_vram_mb": 450.0,
+        "reserved_vram_mb": 570.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "TensorFlow",
+        "episode": 25,
+        "loss": 0.7109,
+        "step_time_ms": 11.44,
+        "allocated_vram_mb": 450.0,
+        "reserved_vram_mb": 570.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "TensorFlow",
+        "episode": 26,
+        "loss": 0.6863,
+        "step_time_ms": 10.74,
+        "allocated_vram_mb": 450.0,
+        "reserved_vram_mb": 570.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "TensorFlow",
+        "episode": 27,
+        "loss": 0.7376,
+        "step_time_ms": 14.09,
+        "allocated_vram_mb": 450.0,
+        "reserved_vram_mb": 570.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "TensorFlow",
+        "episode": 28,
+        "loss": 0.7355,
+        "step_time_ms": 11.29,
+        "allocated_vram_mb": 450.0,
+        "reserved_vram_mb": 570.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "TensorFlow",
+        "episode": 29,
+        "loss": 0.6822,
+        "step_time_ms": 10.97,
+        "allocated_vram_mb": 450.0,
+        "reserved_vram_mb": 570.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "TensorFlow",
+        "episode": 30,
+        "loss": 0.6316,
+        "step_time_ms": 10.98,
+        "allocated_vram_mb": 450.0,
+        "reserved_vram_mb": 570.0,
+        "human_modifier": 1.0
+    }
+]

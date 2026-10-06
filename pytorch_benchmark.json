@@ -1,0 +1,272 @@
+[
+    {
+        "framework": "PyTorch",
+        "episode": 1,
+        "loss": 0.6886,
+        "step_time_ms": 316.04,
+        "allocated_vram_mb": 16.3,
+        "reserved_vram_mb": 22.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "PyTorch",
+        "episode": 2,
+        "loss": 0.6934,
+        "step_time_ms": 2.65,
+        "allocated_vram_mb": 16.3,
+        "reserved_vram_mb": 22.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "PyTorch",
+        "episode": 3,
+        "loss": 0.6945,
+        "step_time_ms": 1.97,
+        "allocated_vram_mb": 16.3,
+        "reserved_vram_mb": 22.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "PyTorch",
+        "episode": 4,
+        "loss": 0.6845,
+        "step_time_ms": 1.98,
+        "allocated_vram_mb": 16.3,
+        "reserved_vram_mb": 22.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "PyTorch",
+        "episode": 5,
+        "loss": 0.6959,
+        "step_time_ms": 1.97,
+        "allocated_vram_mb": 16.3,
+        "reserved_vram_mb": 22.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "PyTorch",
+        "episode": 6,
+        "loss": 0.6888,
+        "step_time_ms": 1.83,
+        "allocated_vram_mb": 16.3,
+        "reserved_vram_mb": 22.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "PyTorch",
+        "episode": 7,
+        "loss": 0.6923,
+        "step_time_ms": 1.76,
+        "allocated_vram_mb": 16.3,
+        "reserved_vram_mb": 22.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "PyTorch",
+        "episode": 8,
+        "loss": 0.6782,
+        "step_time_ms": 1.58,
+        "allocated_vram_mb": 16.3,
+        "reserved_vram_mb": 22.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "PyTorch",
+        "episode": 9,
+        "loss": 0.6911,
+        "step_time_ms": 1.62,
+        "allocated_vram_mb": 16.3,
+        "reserved_vram_mb": 22.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "PyTorch",
+        "episode": 10,
+        "loss": 0.6991,
+        "step_time_ms": 1.59,
+        "allocated_vram_mb": 16.3,
+        "reserved_vram_mb": 22.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "PyTorch",
+        "episode": 11,
+        "loss": 0.7074,
+        "step_time_ms": 1.5,
+        "allocated_vram_mb": 16.3,
+        "reserved_vram_mb": 22.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "PyTorch",
+        "episode": 12,
+        "loss": 0.6918,
+        "step_time_ms": 1.22,
+        "allocated_vram_mb": 16.3,
+        "reserved_vram_mb": 22.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "PyTorch",
+        "episode": 13,
+        "loss": 0.7033,
+        "step_time_ms": 1.21,
+        "allocated_vram_mb": 16.3,
+        "reserved_vram_mb": 22.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "PyTorch",
+        "episode": 14,
+        "loss": 0.6889,
+        "step_time_ms": 1.47,
+        "allocated_vram_mb": 16.3,
+        "reserved_vram_mb": 22.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "PyTorch",
+        "episode": 15,
+        "loss": 0.6922,
+        "step_time_ms": 1.77,
+        "allocated_vram_mb": 16.3,
+        "reserved_vram_mb": 22.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "PyTorch",
+        "episode": 16,
+        "loss": 0.6941,
+        "step_time_ms": 3.12,
+        "allocated_vram_mb": 16.3,
+        "reserved_vram_mb": 22.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "PyTorch",
+        "episode": 17,
+        "loss": 0.6763,
+        "step_time_ms": 2.22,
+        "allocated_vram_mb": 16.3,
+        "reserved_vram_mb": 22.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "PyTorch",
+        "episode": 18,
+        "loss": 0.6915,
+        "step_time_ms": 2.56,
+        "allocated_vram_mb": 16.3,
+        "reserved_vram_mb": 22.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "PyTorch",
+        "episode": 19,
+        "loss": 0.6857,
+        "step_time_ms": 2.84,
+        "allocated_vram_mb": 16.3,
+        "reserved_vram_mb": 22.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "PyTorch",
+        "episode": 20,
+        "loss": 0.7006,
+        "step_time_ms": 2.52,
+        "allocated_vram_mb": 16.3,
+        "reserved_vram_mb": 22.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "PyTorch",
+        "episode": 21,
+        "loss": 0.697,
+        "step_time_ms": 2.39,
+        "allocated_vram_mb": 16.3,
+        "reserved_vram_mb": 22.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "PyTorch",
+        "episode": 22,
+        "loss": 0.696,
+        "step_time_ms": 2.45,
+        "allocated_vram_mb": 16.3,
+        "reserved_vram_mb": 22.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "PyTorch",
+        "episode": 23,
+        "loss": 0.6904,
+        "step_time_ms": 2.18,
+        "allocated_vram_mb": 16.3,
+        "reserved_vram_mb": 22.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "PyTorch",
+        "episode": 24,
+        "loss": 0.7164,
+        "step_time_ms": 2.02,
+        "allocated_vram_mb": 16.3,
+        "reserved_vram_mb": 22.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "PyTorch",
+        "episode": 25,
+        "loss": 0.6819,
+        "step_time_ms": 2.02,
+        "allocated_vram_mb": 16.3,
+        "reserved_vram_mb": 22.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "PyTorch",
+        "episode": 26,
+        "loss": 0.6804,
+        "step_time_ms": 1.94,
+        "allocated_vram_mb": 16.3,
+        "reserved_vram_mb": 22.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "PyTorch",
+        "episode": 27,
+        "loss": 0.678,
+        "step_time_ms": 2.0,
+        "allocated_vram_mb": 16.3,
+        "reserved_vram_mb": 22.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "PyTorch",
+        "episode": 28,
+        "loss": 0.695,
+        "step_time_ms": 2.29,
+        "allocated_vram_mb": 16.3,
+        "reserved_vram_mb": 22.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "PyTorch",
+        "episode": 29,
+        "loss": 0.6839,
+        "step_time_ms": 1.86,
+        "allocated_vram_mb": 16.3,
+        "reserved_vram_mb": 22.0,
+        "human_modifier": 1.0
+    },
+    {
+        "framework": "PyTorch",
+        "episode": 30,
+        "loss": 0.6999,
+        "step_time_ms": 1.98,
+        "allocated_vram_mb": 16.3,
+        "reserved_vram_mb": 22.0,
+        "human_modifier": 1.0
+    }
+]
