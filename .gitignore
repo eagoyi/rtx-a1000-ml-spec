@@ -1,0 +1,14 @@
+# Python environment artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Benchmark output files (Local Metrics)
+*benchmark.json
+
+# IDE Settings
+.vscode/
+.idea/
