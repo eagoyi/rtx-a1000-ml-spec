@@ -24,21 +24,21 @@ sudo apt update
 sudo apt install python3-venv python3-pip -y
 ```
 
-1. Create and activate your virtual environment
+2. Create and activate your virtual environment
 
-### Create a virtual environment named 'venv'
+Create a virtual environment named 'venv'
 
  ```bash
 python3 -m venv venv
 ```
 
-### Activate it (you will see '(venv)' appear at the beginning of your terminal prompt)
+Activate it (you will see '(venv)' appear at the beginning of your terminal prompt)
 
 ```bash
 source venv/bin/activate
 ```
 
-1. Install the GPU-compatible frameworks
+3. Install the GPU-compatible frameworks
 
 Run this specific command to pull down PyTorch with CUDA acceleration enabled, alongside TensorFlow:
 
@@ -49,9 +49,9 @@ pip install torch tensorflow numpy
 
 ------------------------------
 
-## Step 4: Re-run Your Pipeline
+run Your Pipeline
 
-Now that the dependencies are installed inside your virtual environment, run your execution sequence again:
+Now that the dependencies are installed inside your virtual environment, run your execution sequence:
 
 python3 pytorch_rl_pipeline.py
 python3 tensorflow_rl_pipeline.py
